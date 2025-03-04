@@ -1,0 +1,4 @@
+C:/Users/wbhag/Desktop/Python Stuff/ws/build/{presentname}/CMakeFiles/webserver.dir
+C:/Users/wbhag/Desktop/Python Stuff/ws/build/{presentname}/CMakeFiles/ALL_BUILD.dir
+C:/Users/wbhag/Desktop/Python Stuff/ws/build/{presentname}/CMakeFiles/ZERO_CHECK.dir
+C:/Users/wbhag/Desktop/Python Stuff/ws/build/{presentname}/lib/CMakeFiles/http.dir
