@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <CustomBuild Include="C:\Users\wbhag\Desktop\Python Stuff\ws\build\{presentname}\CMakeFiles\0d1f93aa75afd1231ec2a5ddfc3a3834\generate.stamp.rule">
+    <CustomBuild Include="C:\Users\wbhag\Desktop\PythonStuff\ws\build\{presentname}\CMakeFiles\f531272994f2208ce10718b0afd90af8\generate.stamp.rule">
       <Filter>CMake Rules</Filter>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="CMake Rules">
-      <UniqueIdentifier>{949022AC-E729-3D37-ABC7-8969597AFA9B}</UniqueIdentifier>
+      <UniqueIdentifier>{850582BC-6F7D-3770-A8FF-6F5742BBE20C}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

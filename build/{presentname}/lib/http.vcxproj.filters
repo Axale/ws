@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\wbhag\Desktop\Python Stuff\ws\lib\http.c">
+    <ClCompile Include="C:\Users\wbhag\Desktop\PythonStuff\ws\lib\http.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\wbhag\Desktop\Python Stuff\ws\lib\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\wbhag\Desktop\PythonStuff\ws\lib\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{05ED39B0-5CA9-30D4-9326-4092100B5F28}</UniqueIdentifier>
+      <UniqueIdentifier>{964BFD5B-D45F-3DCA-8286-180359DE551E}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
